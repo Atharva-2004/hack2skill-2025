@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { CityEvent, Location, Sentiment } from '../types';
-import { CATEGORY_DETAILS, SENTIMENT_DETAILS } from '../constants';
+import { CityEvent, Location, Sentiment } from './types';
+import { CATEGORY_DETAILS, SENTIMENT_DETAILS } from './constants';
 import { HeatmapIcon } from './icons/HeatmapIcon';
 import { useTranslation } from '../hooks/useTranslation';
 
