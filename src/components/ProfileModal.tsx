@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { User, NotificationPreferences, EventCategory } from '../types';
+import { User, NotificationPreferences, EventCategory } from '../../types';
 import { useTranslation } from '../hooks/useTranslation';
 import { ToggleSwitch } from './ToggleSwitch';
 

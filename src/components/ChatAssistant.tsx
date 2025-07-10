@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ChatMessage, CityEvent, ChatResponseAction } from '../types';
+import { ChatMessage, CityEvent, ChatResponseAction } from '../../types';
 import { getChatResponse } from '../services/geminiService';
 import { useTranslation } from '../hooks/useTranslation';
 

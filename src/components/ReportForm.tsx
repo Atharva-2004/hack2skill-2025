@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { motion } from 'framer-motion';
-import { EventCategory, NewReport, Location } from '../types';
+import { EventCategory, NewReport, Location } from '../../types';
 import { useTranslation } from '../hooks/useTranslation';
 
 interface ReportFormProps {

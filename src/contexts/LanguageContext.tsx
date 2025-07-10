@@ -1,5 +1,5 @@
 import React, { createContext, useState, useCallback, ReactNode, useEffect } from 'react';
-import { Language } from '../types';
+import { Language } from '../../types';
 
 type Translations = Record<string, string>;
 

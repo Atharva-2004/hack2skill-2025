@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { CityEvent, EventCategory } from '../types';
-import { CATEGORY_DETAILS } from '../constants';
+import { CityEvent, EventCategory } from '../../types';
+import { CATEGORY_DETAILS } from '../../constants';
 import { IconMap } from './icons/IconMap';
 import { useTranslation } from '../hooks/useTranslation';
 

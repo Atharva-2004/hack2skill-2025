@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { CityEvent } from '../types';
-import { CATEGORY_DETAILS, SENTIMENT_DETAILS } from '../constants';
+import { CityEvent } from '../../types';
+import { CATEGORY_DETAILS, SENTIMENT_DETAILS } from '../../constants';
 import { IconMap } from './icons/IconMap';
 
 interface StoryFeedProps {

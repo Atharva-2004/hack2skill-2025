@@ -1,4 +1,4 @@
-import { CityEvent, EventCategory, NewReport, Sentiment, Status, StructuredChatResponse, Location, NewsArticle } from '../types';
+import { CityEvent, EventCategory, NewReport, Sentiment, Status, StructuredChatResponse, Location, NewsArticle } from '../../types';
 
 // Helper to simulate network delay
 const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));

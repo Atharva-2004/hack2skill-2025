@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { EventCategory } from '../types';
-import { CATEGORY_DETAILS } from '../constants';
+import { EventCategory } from '../../types';
+import { CATEGORY_DETAILS } from '../../constants';
 import { IconMap } from './icons/IconMap';
 
 interface NotificationToastProps {

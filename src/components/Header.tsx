@@ -1,5 +1,5 @@
 import React from 'react';
-import { User } from '../types';
+import { User } from '../../types';
 import { useTranslation } from '../hooks/useTranslation';
 import { GlobeIcon } from './icons/GlobeIcon';
 import { SOSIcon } from './icons/SOSIcon';

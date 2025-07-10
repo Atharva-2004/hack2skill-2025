@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { NewsArticle } from '../types';
+import { NewsArticle } from '../../types';
 import { getRecentNews } from '../services/geminiService';
 import { useTranslation } from '../hooks/useTranslation';
 

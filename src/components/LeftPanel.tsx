@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { EventFeed } from './EventFeed';
 import { NewsFeed } from './NewsFeed';
-import { CityEvent } from '../types';
+import { CityEvent } from '../../types';
 import { useTranslation } from '../hooks/useTranslation';
 
 interface LeftPanelProps {
