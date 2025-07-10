@@ -1,0 +1,8 @@
+{
+  "name": "Astreya AI",
+  "description": "An AI-powered platform for real-time incident tracking and location intelligence, fusing disparate data sources and enabling citizen reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
